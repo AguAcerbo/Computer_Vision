@@ -24,4 +24,4 @@ Fundamentals
  7. VGG16 with Keras
  8. ResNet50 from Keras
  9. ResNet50 on keras
- 10. Group_Proyect
+ 10. Group Proyect
